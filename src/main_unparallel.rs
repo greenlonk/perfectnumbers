@@ -1,4 +1,4 @@
-And this version
+// Version that doesn't utilize multiprocessing with Rayon
 
 use std::process::exit;
 use std::time::Instant;
